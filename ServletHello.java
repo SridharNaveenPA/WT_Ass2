@@ -12,6 +12,4 @@ public class ServletHello extends HttpServlet {
         out.println("<html><body><h1>UPPU POTTU OOMBU "+count+" THADAVA</h1></body></html>");
         out.close();
     }
-} Counter {
-    
-}
+}  
