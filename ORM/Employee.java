@@ -39,6 +39,3 @@ public class Employee {
         return id + " | " + name + " | ₹" + salary;
     }
 }
- {
-    
-}
