@@ -1,6 +1,6 @@
 import java.io.*;
-import javax.servlet.*;
-import javax.servlet.http.*;
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
 
 public class ServletHello extends HttpServlet{
 public void doGet(HttpServletResponse response,HttpServletRequest request) throws IOException,ServletException{
